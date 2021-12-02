@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of MonitorControl and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.niiconn.pkg.MonitorControl</string>
+	<string>com.github.niiconn.munki.MonitorControl</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
