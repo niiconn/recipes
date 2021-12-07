@@ -1,6 +1,6 @@
 Recipes for AutoPkg
 
-# recipes
+# Recipes
 - AppCleaner
 - Brave_Intel
 - Brave_m1
