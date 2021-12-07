@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Brave and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.niiconn.pkg.Brave</string>
+	<string>com.github.niiconn.pkg.Brave_m1</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.niiconn.download.Brave</string>
+	<string>com.github.niiconn.download.Brave_m1</string>
 	<key>Process</key>
 	<array>
 		<dict>
