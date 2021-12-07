@@ -19,9 +19,9 @@
 			<key>blocking_applications</key>
 			<array>
 				<string>GPGSuite_Updater.app</string>
-				<string>GPG Keychain.app</string>
 				<string>GPG Mail Upgrader.app</string>
 				<string>pinentry-mac.app</string>
+				<string>GPG Keychain.app</string>
 			</array>
 			<key>catalogs</key>
 			<array>
