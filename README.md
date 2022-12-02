@@ -9,7 +9,6 @@ Recipes for AutoPkg
 - Hedge
 - IINA
 - Keka
-- Local
 - Mactracker
 - MonitorControl
 - Nova
@@ -20,4 +19,3 @@ Recipes for AutoPkg
 - Sip
 - Suspicious Package
 - Threema
-- Wacom Desktop Center
