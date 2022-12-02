@@ -2,8 +2,6 @@ Recipes for AutoPkg
 
 # Recipes
 - AppCleaner
-- Brave_Intel
-- Brave_m1
 - Business Communication
 - DeepL
 - Desktoppr
@@ -15,14 +13,11 @@ Recipes for AutoPkg
 - Mactracker
 - MonitorControl
 - Nova
-- Numi
 - OBS
 - Optimage
 - Permute 3
 - Screen
-- Sensei
 - Sip
-- Support
 - Suspicious Package
 - Threema
 - Wacom Desktop Center
