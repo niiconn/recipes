@@ -5,13 +5,13 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v2.2.0 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Business Communication.</string>
+	<string>Downloads the latest version of CapCut.</string>
 	<key>Identifier</key>
-	<string>com.github.niiconn.download.BusinessCommunication</string>
+	<string>com.github.niiconn.download.CapCut</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>Business Communication</string>
+		<string>CapCut</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
@@ -23,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.dmg</string>
 				<key>url</key>
-				<string>https://was1.join.swisscom.ch/dms/bc/pc/btbc-mac.dmg</string>
+				<string>https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_4_0_646_capcutpc_0_creatortool.dmg</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
@@ -36,9 +36,9 @@
 			<key>Arguments</key>
 			<dict>
 				<key>input_path</key>
-				<string>%pathname%/Business Communication.app</string>
+				<string>%pathname%/CapCut.app</string>
 				<key>requirement</key>
-				<string>identifier "com.broadsoft.communicator" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = TDNYQP7VRK</string>
+				<string>identifier "com.lemon.lvoverseas" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22MMUN2RN5"</string>
 			</dict>
 			<key>Processor</key>
 			<string>CodeSignatureVerifier</string>
@@ -47,7 +47,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>input_plist_path</key>
-				<string>%pathname%/Business Communication.app/Contents/Info.plist</string>
+				<string>%pathname%/CapCut.app/Contents/Info.plist</string>
 				<key>plist_version_key</key>
 				<string>CFBundleShortVersionString</string>
 			</dict>

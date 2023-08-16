@@ -5,15 +5,15 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v2.2.0 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of Business Communication and imports it into Munki.</string>
+	<string>Downloads the latest version of CapCut and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.niiconn.munki.BusinessCommunication</string>
+	<string>com.github.niiconn.munki.CapCut</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
 		<string>apps/%NAME%</string>
 		<key>NAME</key>
-		<string>Business Communication</string>
+		<string>CapCut</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>
@@ -21,11 +21,11 @@
 				<string>testing</string>
 			</array>
 			<key>description</key>
-			<string>Easy-to-use to-do app.</string>
+			<string> </string>
 			<key>developer</key>
-			<string>Cisco Systems, Inc.</string>
+			<string>BYTEDANCE PTE. LTD.</string>
 			<key>display_name</key>
-			<string>Business Communication</string>
+			<string>CapCut</string>
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>unattended_install</key>
@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.niiconn.download.BusinessCommunication</string>
+	<string>com.github.niiconn.download.CapCut</string>
 	<key>Process</key>
 	<array>
 		<dict>
