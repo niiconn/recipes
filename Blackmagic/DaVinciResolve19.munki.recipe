@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the most recent version of DaVinci Resolve 18 and imports into Munki.
+    <string>Downloads the most recent version of DaVinci Resolve 19 and imports into Munki.
 
 Please see directions in the download recipe about additional Input variables required for this
 recipe.
@@ -39,7 +39,7 @@ this user's home will be used, and if run at the loginwindow, the root user's ho
                 <string>testing</string>
             </array>
             <key>description</key>
-            <string>This software installs the free version of DaVinci Resolve 18 which features up to 10x faster editing performance, Fairlight audio post production, dozens of new filters and effects and more. Technical support is available via the Blackmagic Design community forums.</string>
+            <string>This software installs the free version of DaVinci Resolve 19 which features up to 10x faster editing performance, Fairlight audio post production, dozens of new filters and effects and more. Technical support is available via the Blackmagic Design community forums.</string>
             <key>display_name</key>
             <string>DaVinci Resolve 19</string>
             <key>minimum_os_version</key>
